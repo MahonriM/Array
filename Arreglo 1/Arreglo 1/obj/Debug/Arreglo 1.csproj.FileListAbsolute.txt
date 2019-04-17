@@ -1,0 +1,7 @@
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\bin\Debug\Arreglo 1.exe.config
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\bin\Debug\Arreglo 1.exe
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\bin\Debug\Arreglo 1.pdb
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\obj\Debug\Arreglo 1.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\obj\Debug\Arreglo 1.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\obj\Debug\Arreglo 1.exe
+C:\Users\Mahonri\source\repos\Arreglo 1\Arreglo 1\obj\Debug\Arreglo 1.pdb
